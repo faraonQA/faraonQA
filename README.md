@@ -1,9 +1,9 @@
 <div id="header" align="center">
   
   <div id="badges">
-    <a href="www.linkedin.com/in/pablofariasdossantos">
+    <!--- <a href="www.linkedin.com/in/pablofariasdossantos">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+    </a> ---!>
    <!--- <a href="https://www.youtube.com/@thefreerangetester"> 
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a> 
@@ -28,7 +28,7 @@ I am an IT System Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :seedling: Experienced IT professional, with many years of success in diverse technology projects with good experience in design, analysis and execution of functional tests business applications in client/server and Web Environments based.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pablo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pablofariasdossantos)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pablofariasdossantos)
 
 ---
 
@@ -67,7 +67,7 @@ I am an IT System Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </div>
 
 ---
-
+<!---
 ### :fire: My Stats :
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thefreerangetester" alt="thefreerangetester" /></a> </p>
 <div align="center">  
